@@ -15,7 +15,7 @@ I enjoy working across the full stack — from designing high-performance backen
 
 <br>🛠 In my free time:<br>
 • I build automation tools to streamline everyday workflows, including content-processing pipelines (detection, translation, and rendering) and browser extensions that enhance media accessibility and user experience  
-• Outside of coding, I enjoy gaming — long-time League of Legends player, along with Valorant and Warcraft II (classic & Reforged)  
+• Outside of coding, I enjoy gaming — long-time League of Legends player, along with Valorant and Warcraft III (classic & Reforged)  
 • I also enjoy gym training and calisthenics  
 
 <br>💡 Interests:<br>
